@@ -1,2 +1,2 @@
-"This is file b- version 1" 
-today i am learning git
+"This is file b- version 2" 
+integrated to Azure boards
